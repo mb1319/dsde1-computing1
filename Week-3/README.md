@@ -174,6 +174,6 @@ python -m unittest test_toys
 python -m unittest test_pendulum
 ```
 
-Correct your code if there are any errors. If the output is that it ran tests and everything is 'OK', then that means your functions passed all the tests. If 'FAILED' is printed instead, then the lines above where it printed 'FAILED' will list what went wrong including what the answer was that your code produced and what the expected answer was.
+Correct your code if there are any errors. If the output is that it ran tests and everything is 'OK', then that means your functions passed all the tests. If 'FAILED' is printed instead, then the lines above where it printed 'FAILED' will list what went wrong including what the answer was that your code produced and what the expected answer was..
 
 
